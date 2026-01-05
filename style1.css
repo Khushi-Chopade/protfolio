@@ -1,0 +1,14 @@
+body {
+    background-color: #f1f8e9;
+    font-family: Arial, sans-serif;
+}
+
+p, li {
+    font-size: 16px;
+    color: #1b5e20;
+}
+
+ul {
+    margin-left: 30px;
+}
+
